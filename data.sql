@@ -1,4 +1,3 @@
--- Données fictives pour le projet tickets-it-sql (aucune donnée réelle)
 USE tickets_it;
 
 INSERT INTO techniciens (id_technicien, nom, niveau) VALUES
